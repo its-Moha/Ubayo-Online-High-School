@@ -1,1 +1,1 @@
-# Ubayo-Online-High-School
+# Ubayo Online High School
