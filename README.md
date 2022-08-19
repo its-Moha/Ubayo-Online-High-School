@@ -3,7 +3,7 @@
 My previous high school was having problems when the coronavirus hit. \
 Students were not completing their coursework because of COVID, especially the seniors. \
 Examinations covered content from classes that hadn't yet been covered because of the COVID. \
-Therefore, they asked me to develop a mobile application that students could use to learn at home. \
+Therefore, they asked me to develop a mobile application that students could use to learn at home.
 
 # 📸Screenshot
 To view the screenshot as a video, click the play button down below.
